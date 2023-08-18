@@ -1,7 +1,0 @@
- /* Стилі для анімації */
-    @keyframes countdownAnimation {
-        0% { background-color: #44bd32; color: white; } /* Початковий колір */
-        50% { background-color: #f39c12; color: black; } /* Колір наполовину таймера */
-        100% { background-color: #e74c3c; color: white; } /* Колір при досягненні 0 */
-    }
-
